@@ -1,0 +1,14 @@
+# RAG9 Labs — Research Agent
+# Requirements for research_agent.py v3.0.0
+#
+# Install all at once:
+#   pip install -r requirements.txt
+#
+# Note: ddgs replaces the older duckduckgo-search package.
+# If you see "No module named 'ddgs'" — this file has you covered.
+
+langchain-ollama
+langchain-community
+langchain-core
+langgraph
+ddgs
